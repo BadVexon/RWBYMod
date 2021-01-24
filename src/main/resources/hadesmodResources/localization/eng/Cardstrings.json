@@ -1,0 +1,412 @@
+{
+  "hadesmod:Strike": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "hadesmod:Defend": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block."
+  },
+  "hadesmod:Dash": {
+    "NAME": "Dash",
+    "DESCRIPTION": "Draw !M! cards. NL Your next Strike applies !zzz! Vulnerable."
+  },
+  "hadesmod:RuyiJinguBang": {
+    "NAME": "Ruyi Jingu Bang",
+    "DESCRIPTION": "Deal !D! damage. NL Activate your Weapon. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Activate your Weapon."
+  },
+  "hadesmod:FulcrumStrike": {
+    "NAME": "Fulcrum Strike",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak."
+  },
+  "hadesmod:PowerOfAnesidora": {
+    "NAME": "Power of Anesidora",
+    "DESCRIPTION": "Weak enemies deal !M! % less damage rather than 25%."
+  },
+  "hadesmod:PhotographicMemory": {
+    "NAME": "Photographic Memory",
+    "DESCRIPTION": "Activate your Weapon !M! times. NL Exhaust."
+  },
+  "hadesmod:YatsuhashisDefence": {
+    "NAME": "Yatsuhashi's Defence",
+    "DESCRIPTION": "Gain !B! Block. NL Apply !M! Vulnerable."
+  },
+  "hadesmod:ArcFortify": {
+    "NAME": "Arc Fortify",
+    "DESCRIPTION": "Gain !B! Block. NL Reflect the next debuff applied to you this turn. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Gain !B! Block. NL Reflect the next debuff applied to you this turn. NL Exhaust."
+  },
+  "hadesmod:MiloAndAkouo": {
+    "NAME": "Milo and Akouo",
+    "DESCRIPTION": "Whenever enemy attacks damage your Block, apply !M! Vulnerable to the attacker."
+  },
+  "hadesmod:CerberusStrike": {
+    "NAME": "Cerberus Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "hadesmod:CutDust": {
+    "NAME": "Cut Dust",
+    "DESCRIPTION": "Your next Strike grants [E] and draws !zzz! cards.",
+    "UPGRADE_DESCRIPTION": "Your next Strike grants [E] [E] and draws !zzz! cards."
+  },
+  "hadesmod:AlternateAnesidora": {
+    "NAME": "Alternate Anesidora",
+    "DESCRIPTION": "After playing the first 3 cards in a turn, put !M! *Insight on top of your draw pile.",
+    "UPGRADE_DESCRIPTION": "Innate. NL After playing the first 3 cards in a turn, put !M! *Insight on top of your draw pile."
+  },
+  "hadesmod:ArrayStrike": {
+    "NAME": "Array Strike",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Gain [E] . NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Gain [E] [E] . NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "Deal !D! damage. NL Draw !M! cards. NL Gain [E] . NL Exhaustive !stslib:ex!."
+    ]
+  },
+  "hadesmod:ArrayBlast": {
+    "NAME": "Array Blast",
+    "DESCRIPTION": "Whenever you Activate your Weapon, deal !M! damage to a random enemy.",
+    "UPGRADE_DESCRIPTION": "Whenever you Activate your Weapon, deal !M! damage to a random enemy. NL Activate your Weapon."
+  },
+  "hadesmod:BarrageStrike": {
+    "NAME": "Barrage Strike",
+    "DESCRIPTION": "Ethereal. NL Deal !D! damage. NL Next turn, add a copy of this card into your hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Deal !D! damage. NL Next turn, add a copy of this card into your hand. NL Exhaust."
+  },
+  "hadesmod:AuraAmp": {
+    "NAME": "Aura Amp",
+    "DESCRIPTION": "Deal !M! % increased damage to enemies with at least 2 debuffs.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Deal !M! % increased damage to enemies with at least 2 debuffs."
+  },
+  "hadesmod:ArraysEmbrace": {
+    "NAME": "Array's Embrace",
+    "DESCRIPTION": "Whenever you Activate your Weapon, draw !M! card.",
+    "UPGRADE_DESCRIPTION": "Whenever you Activate your Weapon, draw !M! cards."
+  },
+  "hadesmod:JinnsKnowledge": {
+    "NAME": "Jinn's Knowledge",
+    "DESCRIPTION": "Gain !B! Block. NL Draw !M! cards."
+  },
+  "hadesmod:Claws": {
+    "NAME": "Claws",
+    "DESCRIPTION": "Deal !D! damage. NL Put an *Insight on top of your draw pile.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Put an *Insight+ on top of your draw pile."
+  },
+  "hadesmod:CrescentDexterity": {
+    "NAME": "Crescent Dexterity",
+    "DESCRIPTION": "Draw !M! cards. NL Drawn hadesmod:Strikes gain hadesmod:Bloodcast this turn.",
+    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Drawn hadesmod:Strikes gain hadesmod:Bloodcast this combat."
+  },
+  "hadesmod:Snipe": {
+    "NAME": "Snipe",
+    "DESCRIPTION": "Deal !D! damage. NL The top card of your draw pile costs 0 this turn."
+  },
+  "hadesmod:Velvet": {
+    "NAME": "Velvet",
+    "DESCRIPTION": "Whenever you draw a card during your turn, gain 2 Block.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you draw a card during your turn, gain 2 Block."
+  },
+  "hadesmod:Focus": {
+    "NAME": "Focus",
+    "DESCRIPTION": "Add a random Strike of any color into your hand. NL It costs 0 this turn. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Add a random Upgraded Strike of any color into your hand. NL It costs 0 this turn. NL Exhaust."
+  },
+  "hadesmod:Xactivate": {
+    "NAME": "X-activate",
+    "DESCRIPTION": "Activate your Weapon X times.",
+    "UPGRADE_DESCRIPTION": "Activate your Weapon X+1 times.",
+    "EXTENDED_DESCRIPTION": [
+      "Swap Weapons. NL Activate your Weapon X times."
+    ]
+  },
+  "hadesmod:MagnhildLauncher": {
+    "NAME": "Magnhild Launcher",
+    "DESCRIPTION": "Deal !D! damage. NL Deal !secondDamage! damage to ALL enemies.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage to ALL enemies."
+  },
+  "hadesmod:WeakWep": {
+    "NAME": "Weak and Wep",
+    "DESCRIPTION": "Apply !M! Weak. NL Activate your Weapon.",
+    "UPGRADE_DESCRIPTION": "Apply !M! Weak. NL Apply 1 Vulnerable. NL Activate your Weapon."
+  },
+  "hadesmod:StrikeSlam": {
+    "NAME": "Strike-Slam",
+    "DESCRIPTION": "Deal !D! damage. NL Your next Strike this turn deals !M! additional damage.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Your next Strike deals !M! additional damage."
+  },
+  "hadesmod:SapPower": {
+    "NAME": "Sap Power",
+    "DESCRIPTION": "Steal up to !M! Strength. NL Apply !M! Weak. NL Apply !M! Vulnerable. NL Apply !M! Poison. NL Exhaust."
+  },
+  "hadesmod:SlowingHit": {
+    "NAME": "Slowing Hit",
+    "DESCRIPTION": "Deal !D! damage. NL Enemy loses !M! Strength this turn."
+  },
+  "hadesmod:CrescentStrike": {
+    "NAME": "Crescent Strike",
+    "DESCRIPTION": "Gain !B! Block. NL Deal !D! damage. NL Activate your Weapon."
+  },
+  "hadesmod:SpookySplit": {
+    "NAME": "Spooky Split",
+    "DESCRIPTION": "Apply !M! Weak and !zzz! Vulnerable, split randomly among ALL enemies. NL Exhaust."
+  },
+  "hadesmod:EnergyWeapons": {
+    "NAME": "Energy Weapons",
+    "DESCRIPTION": "Whenever you Activate your Weapon, gain [E] .",
+    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you Activate your Weapon, gain [E] ."
+  },
+  "hadesmod:Hitguard": {
+    "NAME": "Hitguard",
+    "DESCRIPTION": "Gain !B! Block. NL Deal !D! damage."
+  },
+  "hadesmod:Bloodsight": {
+    "NAME": "Bloodsight",
+    "DESCRIPTION": "Gain [E] . NL Put an *Insight on top of your draw pile.",
+    "UPGRADE_DESCRIPTION": "Gain [E] . NL Put an *Insight+ on top of your draw pile."
+  },
+  "hadesmod:QuickActivate": {
+    "NAME": "Quick Activate",
+    "DESCRIPTION": "Activate your Weapon.",
+    "UPGRADE_DESCRIPTION": "Swap Weapons. NL Activate your Weapon."
+  },
+  "hadesmod:FierceCry": {
+    "NAME": "Fierce Cry",
+    "DESCRIPTION": "Apply !M! Weak. NL Apply !zzz! Vulnerable. NL Draw 1 card."
+  },
+  "hadesmod:StrikeBooster": {
+    "NAME": "Strike Booster",
+    "DESCRIPTION": "Strikes deal !M! additional damage.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Strikes deal !M! additional damage."
+  },
+  "hadesmod:Restrikeler": {
+    "NAME": "Restrikeler",
+    "DESCRIPTION": "Deal !D! damage. NL Put a random Strike from your draw pile into your hand.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Put a Strike from your draw pile into your hand."
+  },
+  "hadesmod:PrepareAttack": {
+    "NAME": "Prepare Attack",
+    "DESCRIPTION": "Apply !M! Vulnerable. NL Your next Strike deals !zzz! additional damage."
+  },
+  "hadesmod:ExposeShot": {
+    "NAME": "Expose Shot",
+    "DESCRIPTION": "Remove all Block from the enemy. NL Deal !D! damage.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Remove all Block from the enemy. NL Deal !D! damage.",
+    "EXTENDED_DESCRIPTION": [
+      "Steal the enemy's Block. NL Deal !D! damage."
+    ]
+  },
+  "hadesmod:Camera": {
+    "NAME": "Camera",
+    "DESCRIPTION": "Retain. NL Add a random Attack into your hand with Ethereal and Exhaust. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Add a random Upgraded Attack into your hand with Ethereal and Exhaust. NL Exhaust."
+  },
+  "hadesmod:CameraSmack": {
+    "NAME": "Camera Smack",
+    "DESCRIPTION": "Deal !D! damage. NL Add a *Camera into your hand.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Add a *Camera+ into your hand."
+  },
+  "hadesmod:CameraCamera": {
+    "NAME": "Camera Camera",
+    "DESCRIPTION": "Add !M! *Cameras into your hand.",
+    "UPGRADE_DESCRIPTION": "Add !M! *Cameras+ into your hand."
+  },
+  "hadesmod:DeepPull": {
+    "NAME": "Deep Pull",
+    "DESCRIPTION": "Draw !M! cards. NL Your next Strike is played twice. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Your next Strike is played twice. NL Exhaustive !stslib:ex!."
+  },
+  "hadesmod:RevolverStrike": {
+    "NAME": "Revolver Strike",
+    "DESCRIPTION": "Deal !D! damage. Deals !M! additional damage for each debuff stack on the enemy."
+  },
+  "hadesmod:MagnhildStrike": {
+    "NAME": "Magnhild Strike",
+    "DESCRIPTION": "Deal !D! damage.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Deal !D! damage."
+  },
+  "hadesmod:WepSpamm": {
+    "NAME": "Weaponry Spam",
+    "DESCRIPTION": "At the end of your turn, Activate your Weapon.",
+    "UPGRADE_DESCRIPTION": "Innate. NL At the end of your turn, Activate your Weapon."
+  },
+  "hadesmod:StrikeLove": {
+    "NAME": "Strike Love",
+    "DESCRIPTION": "Grave. NL Whenever you play a Strike, gain [E] .",
+    "UPGRADE_DESCRIPTION": "Whenever you play a Strike, gain [E] ."
+  },
+  "hadesmod:CameraSpamma": {
+    "NAME": "Camera Spamma",
+    "DESCRIPTION": "At the start of your turn, add a *Camera into your hand.",
+    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, add a *Camera into your hand.",
+    "EXTENDED_DESCRIPTION": [
+      "At the start of your turn, add a *Camera+ into your hand."
+    ]
+  },
+  "hadesmod:StengthOfAlistar": {
+    "NAME": "Strength Of Alistar",
+    "DESCRIPTION": "Deal !D! damage. NL If this kills an enemy, fill your hand with *Cameras.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL If this kills an enemy, fill your hand with *Cameras+."
+  },
+  "hadesmod:DrawDamage": {
+    "NAME": "Draw to Damage",
+    "DESCRIPTION": "Whenever you draw a card during your turn, deal !M! damage to a random enemy.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you draw a card during your turn, deal !M! damage to a random enemy."
+  },
+  "hadesmod:Strikeshield": {
+    "NAME": "Strike Shield",
+    "DESCRIPTION": "Gain !B! Block. NL Your next Strike grants !M! Block."
+  },
+  "hadesmod:Hitpower": {
+    "NAME": "Hitpower",
+    "DESCRIPTION": "Gain [E] for each Strike played this turn. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Gain [E] for each Strike played this turn. NL Exhaust."
+  },
+  "hadesmod:SplashyHit": {
+    "NAME": "Splashy Hit",
+    "DESCRIPTION": "Apply !M! Vulnerable. NL Your next Strike applies !zzz! Weak. NL Exhaust."
+  },
+  "hadesmod:HeroMode": {
+    "NAME": "HERO MODE",
+    "DESCRIPTION": "Cards in your hand cost 1 and become Strike Attacks with !M! bonus damage this combat. NL Exhaust."
+  },
+  "hadesmod:SwapTrick": {
+    "NAME": "Swap Trick",
+    "DESCRIPTION": "Swap Weapons. NL Your next Strike Activates your Weapon.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Swap Weapons. NL Your next Strike Activates your Weapon."
+  },
+  "hadesmod:SickeningStrength": {
+    "NAME": "Sickening Strength",
+    "DESCRIPTION": "Whenever you apply a debuff, gain 1 Strength this turn.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you apply a debuff, gain 1 Strength this turn."
+  },
+  "hadesmod:CarePackage": {
+    "NAME": "Care Package",
+    "DESCRIPTION": "Apply !M! Weak. NL Apply !M! Vulnerable. NL Add !zzz! *Camera into your hand.",
+    "UPGRADE_DESCRIPTION": "Apply !M! Weak. NL Apply !M! Vulnerable. NL Add !zzz! *Cameras into your hand."
+  },
+  "hadesmod:GunCameras": {
+    "NAME": "Tabloids",
+    "DESCRIPTION": "Whenever you play a *Camera, apply !M! hadesmod:Pestered to ALL enemies.",
+    "UPGRADE_DESCRIPTION": "Whenever you play a *Camera, apply !M! hadesmod:Pestered to ALL enemies. NL Add 1 *Camera into your hand."
+  },
+  "hadesmod:PotionSlam": {
+    "NAME": "Prepared Strike",
+    "DESCRIPTION": "Deal !D! damage. NL Exhaust."
+  },
+  "hadesmod:MidasTouch": {
+    "NAME": "Midas Touch",
+    "DESCRIPTION": "Ethereal. NL Give all cards in your hand, draw pile, and discard pile hadesmod:Goldcast. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Ethereal. NL Give all cards in your hand, draw pile, and discard pile hadesmod:Goldcast. NL Exhaust."
+  },
+  "hadesmod:StrengthOfAlistar": {
+    "NAME": "Strength of Alistar",
+    "DESCRIPTION": "Deal !D! damage. NL If this kills an enemy, fill your hand with *Cameras.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL If this kills an enemy, fill your hand with *Cameras+."
+  },
+  "hadesmod:DrawHit": {
+    "NAME": "Drawn Hit",
+    "DESCRIPTION": "Deal !D! damage. NL Damage is increased by !M! for each card drawn during your turn."
+  },
+  "hadesmod:GunCamera": {
+    "NAME": "Snap Shot",
+    "DESCRIPTION": "Deal !D! damage. NL *Cameras in your hand become *Gun *Cameras that deal !M! damage.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Deal !D! damage. NL *Cameras in your hand become *Gun *Cameras that deal !M! damage."
+  },
+  "hadesmod:BitByBit": {
+    "NAME": "Bit by Bit",
+    "DESCRIPTION": "At the end of your turn, deal !M! damage to ALL enemies for each card in your hand.",
+    "UPGRADE_DESCRIPTION": "At the end of your turn, deal !M! damage to ALL enemies for each card in your hand. NL Draw 3 cards."
+  },
+  "hadesmod:BestAngle": {
+    "NAME": "Best Angle",
+    "DESCRIPTION": "Cards from *Cameras cost 0 this turn.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Cards from *Cameras cost 0 this turn.",
+    "EXTENDED_DESCRIPTION": [
+      "Cards from *Cameras cost 0 this turn. NL Add 1 *Camera into your hand."
+    ]
+  },
+  "hadesmod:SelfieForm": {
+    "NAME": "Selfie Form",
+    "DESCRIPTION": "Cards generated from *Cameras are always Upgraded.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Cards generated from *Cameras are always Upgraded."
+  },
+  "hadesmod:DigIn": {
+    "NAME": "Dig In",
+    "DESCRIPTION": "Retain. NL Gain !B! Block. NL Swap Weapons next turn.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Gain !B! Block. NL Swap Weapons next turn. NL Shuffle this card into your draw pile."
+  },
+  "hadesmod:GlanceShot": {
+    "NAME": "Glance Shot",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards."
+  },
+  "hadesmod:Slide": {
+    "NAME": "Slide",
+    "DESCRIPTION": "Gain !B! Block. NL Swap Weapons."
+  },
+  "hadesmod:Snapshoot": {
+    "NAME": "Snapshoot",
+    "DESCRIPTION": "Add 1 *Camera into your hand. NL Activate your Weapon.",
+    "UPGRADE_DESCRIPTION": "Add 1 *Camera+ into your hand. NL Activate your Weapon."
+  },
+  "hadesmod:Flamesmash": {
+    "NAME": "Flamesmash",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "hadesmod:MailBomb": {
+    "NAME": "Mail Bomb",
+    "DESCRIPTION": "Gain !B! Block. NL Deal !D! damage. NL Activate your Weapon. NL Draw !M! cards."
+  },
+  "hadesmod:Spin": {
+    "NAME": "Spin",
+    "DESCRIPTION": "Retain. NL Draw !M! cards.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Retain. NL Draw !M! cards."
+  },
+  "hadesmod:SlotSlash": {
+    "NAME": "Slot Slash",
+    "DESCRIPTION": "Discard your hand, then draw that many cards. NL Exhaust all cards with Retain discarded and deal !D! damage to ALL enemies for each one.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Discard your hand, then draw that many cards. NL Exhaust all cards with Retain discarded and deal !D! damage to ALL enemies for each one."
+  },
+  "hadesmod:GuardyWardy": {
+    "NAME": "Guardy Wardy",
+    "DESCRIPTION": "Gain !B! Block. NL Gain Temporary_HP equal to the total amount of debuffs on the enemy."
+  },
+  "hadesmod:HitDrawBurn": {
+    "NAME": "Hit Draw Burn",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Exhaust 1 card randomly.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Exhaust 1 card."
+  },
+  "hadesmod:IThinkEyePatchesAreHot": {
+    "NAME": "Eye Strike",
+    "DESCRIPTION": "Deal !D! damage. NL If the enemy intends to attack, apply !M! Weak.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Deal !D! damage. NL If the enemy intends to attack, apply !M! Weak. NL Exhaust."
+  },
+  "hadesmod:OctoHit": {
+    "NAME": "Eightfold Strike",
+    "DESCRIPTION": "Gain !B! Block. NL Deal !D! damage. NL Draw !M! cards. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Deal !D! damage. NL Draw !M! cards."
+  },
+  "hadesmod:SwapStrike": {
+    "NAME": "Swap Strike",
+    "DESCRIPTION": "Deal !D! damage. NL Swap Weapons."
+  },
+  "hadesmod:BestLaidPlans": {
+    "NAME": "Best Laid Plans",
+    "DESCRIPTION": "At the end of your turn, Retain up to !M! cards.",
+    "UPGRADE_DESCRIPTION": "Innate. NL At the end of your turn, Retain up to !M! cards."
+  },
+  "hadesmod:DrainingDoom": {
+    "NAME": "Draining Doom",
+    "DESCRIPTION": "Ethereal. NL ALL enemies lose HP equal to their total stack of debuffs at the start of their turn.",
+    "UPGRADE_DESCRIPTION": "Grave. NL ALL enemies lose HP equal to their total stack of debuffs at the start of their turn."
+  },
+  "hadesmod:DrawStrength": {
+    "NAME": "Drawn Strength",
+    "DESCRIPTION": "Grave. NL Whenever you draw a card during your turn, gain 1 Strength that turn.",
+    "UPGRADE_DESCRIPTION": "Whenever you draw a card during your turn, gain 1 Strength that turn."
+  },
+  "hadesmod:FullCamera": {
+    "NAME": "Full Camera",
+    "DESCRIPTION": "At the start of each turn, Swap Weapons."
+  }
+}

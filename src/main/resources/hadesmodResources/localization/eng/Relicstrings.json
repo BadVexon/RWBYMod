@@ -1,0 +1,24 @@
+{
+  "hadesmod:WeaponCharger": {
+    "NAME": "Snapshotter",
+    "FLAVOR": "clik!",
+    "DESCRIPTIONS": [
+      "At the start of each combat, add #b1 #yCamera into your hand."
+    ]
+  },
+  "hadesmod:WeaponGenerator": {
+    "NAME": "Ultimate Camera",
+    "FLAVOR": "clik! snap! clikclikclik!",
+    "DESCRIPTIONS": [
+      "Replaces ",
+      ".[] At the start of each turn, add #b1 #yCamera into your hand."
+    ]
+  },
+  "hadesmod:BrokenCamera": {
+    "NAME": "Broken Camera",
+    "FLAVOR": "Not again!!!",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of your turn. NL Upon pickup, lose #b2 random #yWeapons."
+    ]
+  }
+}

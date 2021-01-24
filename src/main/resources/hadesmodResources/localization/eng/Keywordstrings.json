@@ -1,0 +1,132 @@
+[
+  {
+    "PROPER_NAME": "Bloodcast",
+    "NAMES": [
+      "bloodcast"
+    ],
+    "DESCRIPTION": "A card with #yBloodcast can be played if you don't have enough Energy. You lose #b1 HP for each missing Energy."
+  },
+  {
+    "PROPER_NAME": "Goldcast",
+    "NAMES": [
+      "goldcast"
+    ],
+    "DESCRIPTION": "A card with #yGoldcast can be played if you don't have enough Energy. You lose #b10 Gold for each missing Energy."
+  },
+  {
+    "PROPER_NAME": "Potioncast",
+    "NAMES": [
+      "potioncast"
+    ],
+    "DESCRIPTION": "A card with #yPotioncast can be played if you don't have enough Energy. You lose #b1 Potion for each missing Energy."
+  },
+  {
+    "PROPER_NAME": "Leftcast",
+    "NAMES": [
+      "leftcast"
+    ],
+    "DESCRIPTION": "Instead of spending Energy on a card with Leftcast, discard that many cards from your hand, starting from the left."
+  },
+  {
+    "PROPER_NAME": "Relicast",
+    "NAMES": [
+      "relicast"
+    ],
+    "DESCRIPTION": "A card with #yRelicast can be played if you don't have enough Energy. You lose #b1 random Relic for each missing Energy."
+  },
+  {
+    "PROPER_NAME": "Retaincast",
+    "NAMES": [
+      "retaincast"
+    ],
+    "DESCRIPTION": "Instead of spending Energy on a card with Retaincast, #yExhaust that many cards with #yRetain from your hand, starting from the left."
+  },
+  {
+    "PROPER_NAME": "Walltorchcast",
+    "NAMES": [
+      "walltorchcast"
+    ],
+    "DESCRIPTION": "A card with #yWalltorchcast can be played if you don't have enough Energy. Snuff out 1 lit wall torch for each missing Energy."
+  },
+  {
+    "PROPER_NAME": "Corpsecast",
+    "NAMES": [
+      "corpsecast"
+    ],
+    "DESCRIPTION": "A card with #yCorpsecast can be played if you don't have enough Energy. Destroy 1 monster corpse for each missing Energy."
+  },
+  {
+    "PROPER_NAME": "Woundcast",
+    "NAMES": [
+      "woundcast"
+    ],
+    "DESCRIPTION": "A card with #yWoundcast can be played if you don't have enough Energy. Add 1 Wound into your hand for each missing Energy."
+  },
+  {
+    "PROPER_NAME": "Shivcast",
+    "NAMES": [
+      "shivcast"
+    ],
+    "DESCRIPTION": "A card with #yShivcast can be played if you don't have enough Energy. Add 1 Shiv into your hand for each missing Energy."
+  },
+  {
+    "PROPER_NAME": "Gremlincast",
+    "NAMES": [
+      "gremlincast"
+    ],
+    "DESCRIPTION": "A card with #yGremlincast can be played if you don't have enough Energy. Summon 1 Gremlin for each missing Energy."
+  },
+  {
+    "PROPER_NAME": "Strike",
+    "NAMES": [
+      "strike",
+      "strikes"
+    ],
+    "DESCRIPTION": "Any card with \"Strike\" in its name."
+  },
+  {
+    "PROPER_NAME": "Crescent Rose",
+    "NAMES": [
+      "crescent rose",
+      "crescent_rose"
+    ],
+    "DESCRIPTION": "While held, gain [E] at the start of your turn and played #yAttacks #yExhaust. NL When #yActivated, choose #b1 of #b3 #yAttacks to add into your hand."
+  },
+  {
+    "PROPER_NAME": "Crocea Mors",
+    "NAMES": [
+      "crocea mors",
+      "crocea_mors"
+    ],
+    "DESCRIPTION": "While held, gain #b1 #yBlock whenever you play a card. NL When #yActivated, apply #b1 #yWeak to ALL enemies."
+  },
+  {
+    "PROPER_NAME": "Fulcrum",
+    "NAMES": [
+      "fulcrum"
+    ],
+    "DESCRIPTION": "While held, you have #b1 additional #yStrength. NL When #yActivated, gain #b1 #yStrength."
+  },
+  {
+    "PROPER_NAME": "Gianduja",
+    "NAMES": [
+      "gianduja"
+    ],
+    "DESCRIPTION": "While held, every time you play #b3 cards, deal #b3 damage to ALL enemies. NL When #yActivated, apply #b1 #yVulnerable to ALL enemies."
+  },
+  {
+    "PROPER_NAME": "Sharp Retribution",
+    "NAMES": [
+      "sharp retribution",
+      "sharp_retribution"
+    ],
+    "DESCRIPTION": "While held, every time you play #b3 cards, draw #b1 card. NL When #yActivated, gain [E] ."
+  },
+  {
+    "PROPER_NAME": "Pestered",
+    "NAMES": [
+      "pestered"
+    ],
+    "DESCRIPTION": "Pestered creatures take #b25% more damage from Attacks."
+  }
+]
